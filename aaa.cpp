@@ -1,0 +1,8 @@
+dddd
+
+dir
+
+
+void function()
+{
+}
